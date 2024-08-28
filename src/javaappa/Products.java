@@ -1,4 +1,4 @@
-package javaappa;
+package javaappa;   
 
 public class Products {
    
